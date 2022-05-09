@@ -1,0 +1,31 @@
+{
+	"Registration":
+	
+"New user registration (Russian letters)" : "OK",
+"New user registration (English letters)" : "OK",
+"New user registration (letters)" : "OK",
+"New user registration (special characters)" : "OK":
+
+        "Authorization":
+	
+"Existing user" : "ok",
+"Fictitious user" : "fail":
+
+         "Working with Catalog":
+	 
+"Display categories" : "ok",
+"All Products" : "ok",
+"Shop by Category" : "ok":
+
+          "How to work with cart":
+
+"Adding" : "ok",
+"Remove all items from cart" : "ok":
+
+              "Orders":
+	      
+"List of all orders" : "ok",
+"List of ordersHow to work with cart" : "ok",
+"Forming orders from cart" : "ok":
+
+}
